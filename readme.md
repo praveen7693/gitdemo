@@ -1,2 +1,2 @@
-readme from master
-check 1
+readme from conflict1
+check 2
